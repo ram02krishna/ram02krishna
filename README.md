@@ -15,8 +15,8 @@
 
 <div align="center">
   
-  <a href="https://github.com/byteops02?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/byteops02?label=Follow%20on%20GitHub&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Follow" />
+  <a href="https://github.com/ram02krishna?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/ram02krishna?label=Follow%20on%20GitHub&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Follow" />
   </a>
   <a href="https://x.com/krishnarammhd" target="_blank">
     <img src="https://img.shields.io/twitter/follow/krishnarammhd?style=for-the-badge&logo=X&color=blueviolet&label=Follow%20on%20X" alt="X Follow" />
@@ -154,7 +154,7 @@ const ramKrishna = {
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=byteops02&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ram02krishna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>
