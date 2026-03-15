@@ -39,14 +39,14 @@
 const ramKrishna = {
     title: "Full Stack Developer",
     location: "India 🇮🇳",
-    currentFocus: ["Drizzle ORM", "PostgreSQL", "System Design"],
-    askMeAbout: ["Web Dev", "Tech", "APIs", "Database Design"],
+    currentFocus: ["Drizzle ORM", "PostgreSQL", "Docker"],
+    askMeAbout: ["Web Dev", "Tech", "APIs"],
     technologies: {
-        frontEnd: ["React", "TypeScript", "Tailwind CSS", "Bootstrap"],
+        frontEnd: ["React", "TypeScript", "Tailwind CSS"],
         backEnd: ["Node.js", "Express.js", "REST APIs"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         tools: ["Docker", "Postman", "Git", "VS Code"],
-        currentlyLearning: ["Drizzle", "PostgreSQL", "Advanced System Design"]
+        currentlyLearning: ["Drizzle", "PostgreSQL", "Docker"]
     },
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
@@ -170,10 +170,6 @@ const ramKrishna = {
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ram-krishna-419528287/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" style="margin: 0 10px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/real.ramkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="60" style="margin: 0 10px;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com" target="_blank">
