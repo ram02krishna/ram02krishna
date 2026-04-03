@@ -36,7 +36,7 @@
 ### 👨‍💻 About Me
 
 ```typescript
-const ramKrishna = {
+const RamKrishna = {
     title: "Full Stack Developer",
     location: "India 🇮🇳",
     currentFocus: ["Drizzle ORM", "PostgreSQL", "Docker"],
