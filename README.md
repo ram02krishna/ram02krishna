@@ -88,6 +88,12 @@ const Ram Krishna = {
 </p>
 
 <p align="center">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
@@ -114,11 +120,6 @@ const Ram Krishna = {
   </a>
 </p>
 
-<p align="center">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
@@ -144,6 +145,9 @@ const Ram Krishna = {
   </a>
   <a href="https://nodemon.io/" target="_blank">
     <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+  </a>
+  <a href="https://orm.drizzle.team/" target="_blank">
+    <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
   </a>
 </p>
 
