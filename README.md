@@ -165,24 +165,18 @@ const Ram Krishna = {
 
 <p align="center">
   <a href="https://x.com/krishnarammhd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="60" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="60" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ram-krishna-419528287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:krishnarammhd@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="50" width="60" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="50" width="60" />
   </a>
 </p>
-
-
-<div align="center">
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
